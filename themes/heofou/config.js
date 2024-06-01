@@ -15,11 +15,11 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享乐趣',
-  HEO_HERO_TITLE_2: '与小折腾',
-  HEO_HERO_TITLE_3: '内含书籍赛博书架',
-  HEO_HERO_TITLE_4: 'by NoitonNext',
+  HEO_HERO_TITLE_2: '小折腾',
+  HEO_HERO_TITLE_3: 'Daydayhappy',
+  HEO_HERO_TITLE_4: '书架陈列',
   HEO_HERO_TITLE_5: '欢迎借阅',
-  HEO_HERO_TITLE_LINK: 'https://happyfou.com/book',
+  HEO_HERO_TITLE_LINK: 'https://happyfou.com/books',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '爱折腾', url: '/category/折腾' },
@@ -107,7 +107,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '加入解忧杂货铺',
-  HEO_SOCIAL_CARD_URL: '/getgroup.jpg',
+  HEO_SOCIAL_CARD_URL: 'https://happyfou.com/getgroup.jpg',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
